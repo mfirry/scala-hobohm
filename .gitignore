@@ -1,6 +1,10 @@
-/RUNNING_PID
-/logs/
 /project/*-shim.sbt
 /project/project/
 /project/target/
 /target/
+.metals/
+.vscode/
+
+.bloop/
+project/.bloop/
+project/metals.sbt
